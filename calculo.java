@@ -1,4 +1,3 @@
-package papas;
 
 public class calculo
 {
